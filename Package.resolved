@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cairo",
+        "repositoryURL": "https://github.com/PureSwift/Cairo.git",
+        "state": {
+          "branch": "master",
+          "revision": "b5f867a56a20d2f0064ccb975ae4a669b374e9e0",
+          "version": null
+        }
+      },
+      {
+        "package": "OpenSwiftUI",
+        "repositoryURL": "https://github.com/PureSwift/OpenSwiftUI.git",
+        "state": {
+          "branch": "master",
+          "revision": "5ee622a89be1a936d4685b697b41f68099f21433",
+          "version": null
+        }
+      },
+      {
+        "package": "SDL",
+        "repositoryURL": "https://github.com/PureSwift/SDL.git",
+        "state": {
+          "branch": "master",
+          "revision": "d3c34516bdad3ab6902b46d00a33c2ac08f6b88e",
+          "version": null
+        }
+      },
+      {
+        "package": "Silica",
+        "repositoryURL": "https://github.com/PureSwift/Silica.git",
+        "state": {
+          "branch": "master",
+          "revision": "5b8c695af2d5a38c0ea0468aac80a1d5ae5d005f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
